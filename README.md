@@ -31,7 +31,3 @@ Then, open the displayed **localhost URL** in your browser to use the app.
 - AI-powered data cleaning suggestions.
 - More visualization options (line charts, histograms, etc.).
 - Google Sheets and Database integration.
-
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
