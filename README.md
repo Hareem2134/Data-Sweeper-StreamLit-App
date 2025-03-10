@@ -34,5 +34,5 @@ Then, open the displayed **localhost URL** in your browser to use the app.
 
 ## 📬 Contact
 For queries, connect with me on **LinkedIn** or reach out via **Email:**:  
-🔗 [Hareem Farooqi](https://www.linkedin.com/in/hareemfarooqi/)  
+- 🔗 [Hareem Farooqi](https://www.linkedin.com/in/hareemfarooqi/)  
 - **Email:** hareemfarooqi2134@gmail.com
