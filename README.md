@@ -31,3 +31,8 @@ Then, open the displayed **localhost URL** in your browser to use the app.
 - AI-powered data cleaning suggestions.
 - More visualization options (line charts, histograms, etc.).
 - Google Sheets and Database integration.
+
+## 📬 Contact
+For queries, connect with me on **LinkedIn** or reach out via **Email:**:  
+🔗 [Hareem Farooqi](https://www.linkedin.com/in/hareemfarooqi/)  
+- **Email:** hareemfarooqi2134@gmail.com
