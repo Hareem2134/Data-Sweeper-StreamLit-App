@@ -26,8 +26,8 @@
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/data-sweeper.git
-cd data-sweeper
+git clone https://github.com/Hareem2134/Data-Sweeper-StreamLit-App
+cd data-sweeper-streamLit-app
 ```
 
 ### **2️⃣ Install Dependencies**  
